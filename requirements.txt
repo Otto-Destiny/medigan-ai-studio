@@ -1,0 +1,26 @@
+# Core web UI
+streamlit>=1.20.0
+
+# Generative engine / medigan
+medigan
+
+# Deep learning (choose correct install for your CUDA / CPU)
+# NOTE: see the official PyTorch install page for the best pip/conda wheel for your environment.
+torch
+torchvision
+
+# Image handling & processing
+Pillow>=9.0.0
+scikit-image>=0.20.0
+numpy>=1.22.0
+scipy>=1.8.0
+
+# Data utilities
+pandas>=1.4.0
+tqdm>=4.60.0
+requests>=2.28.0
+python-dotenv>=0.21.0
+
+# Optional / tooling
+matplotlib>=3.5.0
+ 
