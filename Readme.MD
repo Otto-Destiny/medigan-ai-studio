@@ -102,7 +102,7 @@ To run this application on your local machine, follow these steps:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/medigan-ai-studio.git
+git clone https://github.com/Otto-Destiny/medigan-ai-studio.git
 cd medigan-ai-studio
 ```
 
